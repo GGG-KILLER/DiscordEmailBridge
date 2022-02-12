@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscordEmailBridge": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
